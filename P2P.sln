@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestService", "RestService\RestService.csproj", "{2FA92F40-856A-4EAF-B567-BBA1301E8861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peers", "Peers\Peers.csproj", "{C64339A2-24A2-4261-98EE-A32A006CF84D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{6DA83C50-1499-4892-A285-570C70E242D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA92F40-856A-4EAF-B567-BBA1301E8861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA92F40-856A-4EAF-B567-BBA1301E8861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA92F40-856A-4EAF-B567-BBA1301E8861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA92F40-856A-4EAF-B567-BBA1301E8861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64339A2-24A2-4261-98EE-A32A006CF84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64339A2-24A2-4261-98EE-A32A006CF84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64339A2-24A2-4261-98EE-A32A006CF84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64339A2-24A2-4261-98EE-A32A006CF84D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA83C50-1499-4892-A285-570C70E242D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA83C50-1499-4892-A285-570C70E242D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA83C50-1499-4892-A285-570C70E242D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA83C50-1499-4892-A285-570C70E242D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B336B32-20A3-4458-ADC7-E5588CA621F6}
+	EndGlobalSection
+EndGlobal
